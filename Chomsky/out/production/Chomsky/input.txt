@@ -1,0 +1,12 @@
+S A B C
+a d
+S dB
+S A
+A d
+A dS
+a aBdAB
+B a
+B dA
+B A
+B *
+C Aa
